@@ -1,5 +1,5 @@
 
-# poorani  
+# Poorani Karunanithi  
 i am poorani from india i did my masters in computer science and i did my philosophy in computer science.i am married i have one kid he is 3 years old.
 ## *skills*
 Working well in a team
