@@ -20,7 +20,11 @@
 
  ### this is an  sub.subtitle 
 
+Sample Image
+
  ![sample image](/images/sample.jpeg)
+
+Animated Image
 
 ![sample animated image](/images/giphy.gif)
 
