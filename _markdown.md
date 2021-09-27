@@ -21,5 +21,13 @@
  ### this is an  sub.subtitle 
 
  ![sample image](/images/sample.jpeg)
- 
+
 ![sample animated image](/images/giphy.gif)
+
+## sample code
+
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+```
