@@ -1,15 +1,16 @@
 
 # Poorani Karunanithi  
 i am poorani from india i did my masters in computer science and i did my philosophy in computer science.i am married i have one kid he is 3 years old.
-## *skills*
+
+## *Skills*
 Working well in a team
 Good time management
-being flexibilty
+Being flexibilty
 
-### *i like in the universe*
-i like god 
-i like MY MOTHER
-I LIKE MY KID
+### *I Like In The Universe*
+I like god 
+I like My Mother
+I LIKE My Kids
 
 #### *Objectives to achieve as a developer during Becode.*
 
@@ -22,6 +23,7 @@ Become better in time management by tracking your time
 Fear of being judged by others
  
 Fear of Job Loss
+
 ### The things you look forward to*
 Getting my  first job
 look forword to meet my family this year
