@@ -1,6 +1,6 @@
 
 # Poorani Karunanithi  
-i am poorani from india i did my masters in computer science and i did my philosophy in computer science.i am married i have one kid he is 3 years old.
+I am poorani from India.i did my masters in computer science and i did my philosophy in computer science.i am married i have one kid he is 3 years old.
 
 ## *Skills*
 Working well in a team
@@ -24,24 +24,24 @@ Learning in-demand skills to increase professional opportunities
 
 Become better in time management by tracking your time
 
-***The Fears you might have.***
+**The Fears you might have.**
 
 Fear of being judged by others
  
 Fear of Job Loss
 
-### The things you look forward to*
+## The things you look forward to*
 
 Getting my  first job
 
-look forword to meet my family this year
+Look forword to meet my family this year
 
-### The  things you value the most to work as a team
+## The  things you value the most to work as a team
 
 We are passionate about our work 
 
 We will laugh hard, loud, and often.
 
-### my favorite GIF
+### My Favorite GIF
 
 ![favorite image](/images/favoriteimage.gif)
