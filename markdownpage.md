@@ -23,3 +23,4 @@ look forword to meet my family this year
 We are passionate about our work 
 We will laugh hard, loud, and often.
 ###my favorite GIF
+![favorite image](/images/favorite image.gif)
